@@ -61,12 +61,6 @@ Neste material, você vai entender a lógica, propósito e potencial do estilo.
 ---
 
 ## 🔍 Anatomia de uma Regra CSS
-
-```css
-h1 {
-  color: #4f46e5;
-  font-size: 2rem;
-}
 ## 📬 Contato
 
 - E-mail: [iwersonrb@gmail.com](mailto:iwersonrb@gmail.com)
@@ -74,3 +68,6 @@ h1 {
 - GitHub: [Iwersonrb](https://github.com/Iwersonrb)
 
 ---
+
+
+
